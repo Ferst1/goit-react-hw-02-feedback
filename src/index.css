@@ -32,16 +32,14 @@ ol {
   padding: 0;
 }
 
-img {
-  display: block;
-  max-width: 100%;
-  height: auto;
-}
-
-.hidden {
-  display: none;
+li {
+  list-style: none;
 }
 
 .test {
-  color: #4a4a4a;
+  color: #8a8888;
+}
+
+h2 {
+  font-size: 2em;
 }

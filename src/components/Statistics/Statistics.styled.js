@@ -6,4 +6,7 @@ export const StatList = styled.ul`
   gap: 6px;
   margin-top: 10px;
   margin-left: 16px;
+  li {
+    font-size: 25px;
+  }
 `;
